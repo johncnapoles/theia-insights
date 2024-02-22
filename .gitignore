@@ -1,3 +1,10 @@
+# Extra, specific to this repo
+db/companies.db
+/logs/*
+!/logs/.gitkeep
+/outputs/*
+!/outputs/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
